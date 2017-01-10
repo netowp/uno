@@ -1,2 +1,2 @@
 # uno
-Fake Uno
+Just a simple uno-like game with simplified rules
