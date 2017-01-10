@@ -1,0 +1,37 @@
+@import "bootstrap";
+
+body {
+    $margin: 50px;
+}
+
+.card {
+    height: 140px;
+    width: 100px;
+    border: 1px solid black;
+    border-radius: 5px;
+
+    margin: 6px;
+    display: inline-block;
+
+    font-size: 76px;
+    color: white;
+    text-align: center;
+
+    &.yellow {
+        background-color: #f0dc00;
+    }
+
+    &.red {
+        background-color: #f90018;
+    }
+
+    &.green {
+        background-color: #00a64b;
+    }
+
+    &.blue {
+        background-color: #008deb;
+    }
+
+
+}
